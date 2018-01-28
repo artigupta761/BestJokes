@@ -29,6 +29,8 @@ function outputToDiv(data){
     console.log("leftNumberOfJokes" + leftNumberOfJokes);
     key = 0;
 
+    
+
     for (var i = 0; i < totalNumberOfRows; i++){
 
         var row_div = document.createElement("div");
